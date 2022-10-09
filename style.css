@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+.inner{
+    background-color: teal;
+    width: 80%;
+    height: 300px;
+    border-radius: 30px;
+
+}
+form{
+    padding-top: 20px;
+    margin-top: 30px;
+    margin-left: 90px;
+    text-align: start;
+}
+
+.text1{
+    border-radius: 10px;
+}
+#mylbl3{
+    color: red;
+}
